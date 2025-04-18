@@ -11,10 +11,8 @@ To run this project locally:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/amitdev/MatrixSolver.git
+git clone https://github.com/BarakMeyouhas/MatrixSolver.git
 cd MatrixSolver
-
----
 ```
 
 ## 🚀 Features
