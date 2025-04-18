@@ -4,6 +4,19 @@ Matrix Solver is a Java project designed to solve systems of linear equations us
 
 ---
 
+## 🛠️ Getting Started
+
+To run this project locally:
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/amitdev/MatrixSolver.git
+cd MatrixSolver
+
+---
+```
+
 ## 🚀 Features
 
 - Solve any system of linear equations
@@ -41,6 +54,7 @@ If a system has infinitely many solutions, the solver will:
 ```text
 S = { (x1, x2, x3) | t1 in ℝ }
 ```
+
 Or with Greek symbols (optional future toggle):
 
 ```text
@@ -62,6 +76,7 @@ Free variable naming is clean and customizable (`t0`, `t1`, `λ`, etc).
 ## 🧪 Example Usage
 
 ### Input:
+
 ```text
 Enter 2x3 matrix:
 1 1 2
@@ -69,6 +84,7 @@ Enter 2x3 matrix:
 ```
 
 ### Output:
+
 ```text
 the matrix after row echelon by gauss jordan
 1.000   1.000   2.000
@@ -91,15 +107,17 @@ S = { (2 - 1*t1, t1) | t1 in ℝ }
 ---
 
 ## 🤝 Contributing
+
 This is a personal learning project, but contributions and suggestions are welcome. Fork the repo, make a change, and let me know what you've learned!
 
 ---
 
 ## 🧠 Why This Project?
+
 Because i'm on a mission to become the **#1 developer in the world** — and it starts by mastering the fundamentals the right way: with depth, clarity, and creativity.
 
 ---
 
 ## 🗂 License
-This project is released under the MIT License.
 
+This project is released under the MIT License.
